@@ -17,7 +17,7 @@ Chapters
 
 ### [Project Implementation Description & Explanation]
 
-### [Test Plan]
+### [Test Plan](https://github.com/mneitzel95/senior-project/blob/master/Documents/Test%20Plan%20Specification%20~%20Updated%20as%20of%2011-10-2020.docx)
 
 ### [Test Results]
 
