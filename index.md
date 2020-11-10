@@ -7,7 +7,7 @@ Chapters
 *For access to my private project repositories, please [email me](mailto:MANeitzel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Statement of Purpose (with the Problem Statement]
+### [Statement of Purpose (with the Problem Statement)]
 
 ### [Research & Background]
 
