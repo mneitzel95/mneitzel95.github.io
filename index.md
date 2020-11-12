@@ -9,7 +9,7 @@ Chapters
 ---
 ### [Statement of Purpose (with the Problem Statement)](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Statement%20of%20Purpose%20(with%20the%20Problem%20Statement).md)
 
-### [Research & Background]
+### [Research & Background](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Research%20%26%20Background.md)
 
 ### [Project Language(s), Software, and Hardware]
 
