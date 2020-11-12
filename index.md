@@ -3,9 +3,6 @@ Senior Project Defense Documentation
 
 Chapters
 --------------------
-
-*For access to my private project repositories, please [email me](mailto:MANeitzel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
-
 ---
 ### [Statement of Purpose (with the Problem Statement)](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Statement%20of%20Purpose%20(with%20the%20Problem%20Statement).md)
 
