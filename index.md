@@ -19,7 +19,7 @@ Chapters
 
 ### [Test Plan](https://github.com/mneitzel95/senior-project/blob/master/Documents/Test%20Plan%20Specification%20~%20Updated%20as%20of%2011-10-2020.docx)
 
-### [Test Results]
+### [Test Results](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Test%20Results.md)
 
 ### [Challanges Overcome]
 
