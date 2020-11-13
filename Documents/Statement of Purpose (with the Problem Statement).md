@@ -10,7 +10,7 @@ view them later on.  People want to interact with the content of a video present
 semantic meaning intact via HTML will meet this need.  Ideally, users will be able to interact with the content of a  “video” presentation by copying text, clicking on links, 
 and answer prompts for information (e.g., questions check understanding).  However, the semantic meaning and structure of content is lost during the usual video recording 
 process, which only captures a sequence of images.  The demand for these features in education is apparent based on decisions with fellow students and teachers.  YouTube 
-provides partial support for these features through “cards”, captions, and description links, which indicates that these features are helpful.  With the use of Reveal.js, 
-Visual Studio Code, and VS Code storyteller by markm208 on GitHub, I will be able to design a way for people to be able to review the notes as they were presented in the 
-slides by being able to copy and paste the exact text from the slides into their own notes.
+provides partial support for these features through “cards”, captions, and description links, which indicates that these features are helpful.  With the use of Reveal.js and 
+Visual Studio Code I will be able to design a way for people to be able to review the notes as they were presented in the slides by being able to copy and paste the exact text
+from the slides into their own notes.
 </p>
