@@ -22,7 +22,7 @@ Chapters
 
 ### [Future Enhancements](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Future%20Enhancements.md)
 
-### [Defense Presentation Slides]
+### [Defense Presentation Slides](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Defense%20Presentation%20Slides.md)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
 <!-- Remove above link if you don't want to attributive -->
