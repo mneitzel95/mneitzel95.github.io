@@ -12,7 +12,7 @@ Chapters
 
 ### [Project Requirements](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Requirements.md)
 
-### [Project Implementation Description & Explanation]
+### [Project Implementation Description & Explanation](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Project%20Implementation%20Description%20%26%20Explanation.md)
 
 ### [Test Plan](https://github.com/mneitzel95/senior-project/blob/master/Documents/Test%20Plan%20Specification%20~%20Updated%20as%20of%2011-10-2020.docx)
 
