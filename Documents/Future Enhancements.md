@@ -15,3 +15,7 @@ presenter while they are actively presenting their presentation.
 <p>
 - Be able to use the Visual Studio Code storyteller plugin by markm208 to record the audio while creating an HTML slideshow presentation.
 </p>
+
+<p>
+- Was able to get the Presenter Feedback Form to submit to the presenter's email.
+</p>
