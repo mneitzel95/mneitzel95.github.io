@@ -12,3 +12,6 @@ presenter while they are actively presenting their presentation.
 <p>
 - Get the .webm file extension to export to a .wav file extension.
 </p>
+<p>
+- Be able to use the Visual Studio Code storyteller plugin by markm208 to record the audio while creating an HTML slideshow presentation.
+</p>
