@@ -8,7 +8,7 @@ Chapters
 
 ### [Research & Background](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Research%20%26%20Background.md)
 
-### [Project Language(s), Software, and Hardware]
+### [Project Language(s), Software, and Hardware](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Project%20Language(s)%2C%20Software%2C%20and%20Hardware.md)
 
 ### [Project Requirements](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Requirements.md)
 
