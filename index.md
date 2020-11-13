@@ -20,7 +20,7 @@ Chapters
 
 ### [Challanges Overcome](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Challanges%20Overcome.md)
 
-### [Future Enhancements]
+### [Future Enhancements](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Future%20Enhancements.md)
 
 ### [Defense Presentation Slides]
 
