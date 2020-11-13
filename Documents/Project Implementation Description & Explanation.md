@@ -52,3 +52,10 @@ How to Create an HTML Slide
 </section>
 </code>
 </pre>
+
+Source Code Repository
+--------------------
+---
+<p>
+- <a href="https://github.com/mneitzel95/senior-project">Source Code Repository</a>
+</p>
