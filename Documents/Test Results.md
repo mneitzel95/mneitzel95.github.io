@@ -4,7 +4,6 @@ Test Results
 Test Cases, Description, and Pass/Fail
 --------------------
 
----
 | Test Case # | Description                                                                                                   | Pass/Fail |
 | ----------- | ------------------------------------------------------------------------------------------------------------- | --------- |
 | 1           | If video player code works properly                                                                           | Pass      |
