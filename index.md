@@ -4,29 +4,27 @@ Senior Project Defense Documentation
 Chapters
 --------------------
 ---
-### [Statement of Purpose (with the Problem Statement)](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Statement%20of%20Purpose%20(with%20the%20Problem%20Statement).md)
+### [Statement of Purpose (with the Problem Statement)](https://mneitzel95.github.io/Documents/Statement%20of%20Purpose%20(with%20the%20Problem%20Statement).md)
 
-### [Research & Background](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Research%20%26%20Background.md)
+### [Research & Background](https://mneitzel95.github.io/Documents/Research%20%26%20Background.md)
 
-### [Project Language(s), Software, and Hardware](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Project%20Language(s)%2C%20Software%2C%20and%20Hardware.md)
+### [Project Language(s), Software, and Hardware](https://mneitzel95.github.io/Documents/Project%20Language(s)%2C%20Software%2C%20and%20Hardware.md)
 
-### [Project Requirements](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Requirements.md)
+### [Project Requirements](https://mneitzel95.github.io/Documents/Requirements.md)
 
-### [Project Implementation Description & Explanation](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Project%20Implementation%20Description%20%26%20Explanation.md)
+### [Project Implementation Description & Explanation](https://mneitzel95.github.io/Documents/Project%20Implementation%20Description%20%26%20Explanation.md)
 
-### [Test Plan](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Test%20Plan%20Specification.pdf)
+### [Test Plan](https://mneitzel95.github.io/Documents/Test%20Plan%20Specification.pdf)
 
-### [Test Results](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Test%20Results.md)
+### [Test Results](https://mneitzel95.github.io/Documents/Test%20Results.md)
 
-### [Challanges Overcome](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Challanges%20Overcome.md)
+### [Challanges Overcome](https://mneitzel95.github.io/Documents/Challanges%20Overcome.md)
 
-### [Future Enhancements](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Future%20Enhancements.md)
+### [Future Enhancements](https://mneitzel95.github.io/Documents/Future%20Enhancements.md)
 
-### [Defense Presentation Slides](https://github.com/mneitzel95/mneitzel95.github.io/blob/master/Documents/Defense%20Presentation%20Slides.md)
+### [Defense Presentation Slides](https://mneitzel95.github.io/Documents/Defense%20Presentation%20Slides.md)
 
 ### [Defense Presentation Live Demo](https://youtu.be/gb3IHA0wMcQ)
-
-### [Defense Presentation Demo]("https://github.com/mneitzel95/senior-project/blob/master/player/SeniorProject.html" target="_blank")
 
 ### [Senior Project Source Code Repository](https://github.com/mneitzel95/senior-project)
 
