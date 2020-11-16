@@ -4,21 +4,13 @@ Research & Background
 Research
 --------------------
 ---
-<p>
-I will complete my project by doing some research on how to use Reveal.js and all of the features that it involves and how to use the Visual Studio Code Storyteller Plugin 
-and all of the features that are involved with it.  Another feature that I need to do some research on is identifying ways to add audio to a Storyteller file in Visual 
-Studio Code.  One way that I can accomplish this is by using the Chronicler extension in Visual Studio Code.  Another way that I can accomplish this is by possibly using 
-Audacity and importing the recorded audio file into the Storyteller file.
-</p>
+I will complete my project by doing some research on how to use Reveal.js and all of the features that it involves and how to use the Visual Studio Code Storyteller Plugin and all of the features that are involved with it.  Another feature that I need to do some research on is identifying ways to add audio to a Storyteller file in Visual Studio Code.  One way that I can accomplish this is by using the Chronicler extension in Visual Studio Code.  Another way that I can accomplish this is by possibly using Audacity and importing the recorded audio file into the Storyteller file.
 
 Background
 --------------------
 ---
 
-<p>
-My project is able to record audio playback within each slide.  My project allows the slideshow to auto play/animate with the audio recording.  My project allows viewers to
-download the audio playback files for future reference.  My project allows viewers to provide presenter feedback.
-</p>
+My project is able to record audio playback within each slide.  My project allows the slideshow to auto play/animate with the audio recording.  My project allows viewers to download the audio playback files for future reference.  My project allows viewers to provide presenter feedback.
 
 <!--Background
 --------------------
