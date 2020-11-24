@@ -28,7 +28,7 @@ Chapters
 
 ### [Defense Presentation Demo](http://htmlpreview.github.io/?https://github.com/mneitzel95/senior-project/blob/master/player/SeniorProject.html)
 
-### [Senior Project Live Demo](https://github.com/mneitzel95/senior-project/blob/master/player/SeniorProject.html)
+### [Senior Project Live Demo](https://mneitzel95.github.io/senior-project/player/SeniorProject.html)
 
 ### [Senior Project Source Code Repository](https://rawgit.com/mneitzel95/senior-project)
 
