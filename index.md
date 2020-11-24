@@ -26,6 +26,8 @@ Chapters
 
 ### [Defense Presentation Live Demo](https://youtu.be/gb3IHA0wMcQ)
 
+### [Defense Presentation Demo](http://htmlpreview.github.io/?https://github.com/mneitzel95/senior-project/blob/master/player/SeniorProject.html)
+
 ### [Senior Project Source Code Repository](https://github.com/mneitzel95/senior-project)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
