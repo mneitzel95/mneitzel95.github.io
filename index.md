@@ -24,11 +24,7 @@ Chapters
 
 ### [Defense Presentation Slides](https://mneitzel95.github.io/Documents/Defense%20Presentation%20Slides)
 
-### [Defense Presentation Live Demo](https://youtu.be/gb3IHA0wMcQ)
-
-### [Defense Presentation Demo](http://htmlpreview.github.io/?https://github.com/mneitzel95/senior-project/blob/master/player/SeniorProject.html)
-
-### [Senior Project Live Demo](https://mneitzel95.github.io/senior-project/player/SeniorProject.html)
+### [Defense Presentation Live Demo](https://mneitzel95.github.io/senior-project/player/SeniorProject.html)
 
 ### [Senior Project Source Code Repository](https://rawgit.com/mneitzel95/senior-project)
 
